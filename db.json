@@ -1,7 +1,11 @@
 {
-  "id": 1,
-  "projectId": "b099ce3a-7f07-4edd-8c95-a89b4c563426",
-  "projectName": "US Presidents",
+  "project" : [
+    {
+	  "id": 1,
+	  "projectId": "b099ce3a-7f07-4edd-8c95-a89b4c563426",
+	  "projectName": "US Presidents",
+    }
+  ],
   "notes": [
     {
       "id": 2,
